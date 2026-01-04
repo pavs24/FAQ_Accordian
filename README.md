@@ -6,7 +6,7 @@ Users can click on the plus (+) icon or question to reveal the answer, and the i
 ---
 
 ##  Live Demo
-
+Link: https://pavs24.github.io/FAQ_Accordian/
 
 ---
 
@@ -35,7 +35,7 @@ Users can click on the plus (+) icon or question to reveal the answer, and the i
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - **Mobile view** → Mobile background image
 - **Desktop view (≥1000px)** → Desktop background image
@@ -53,22 +53,13 @@ Users can click on the plus (+) icon or question to reveal the answer, and the i
 3. Clicking again closes the open FAQ
 
 ---
-## 🧠 What I Learned
+##  What I Learned
 
 - Implementing accordion logic using JavaScript
 - Handling DOM traversal correctly using `querySelector` inside loops
 - Mobile-first CSS design
 - Switching background images using media queries
 - Writing clean, maintainable frontend code
-
----
-
-## ✨ Future Improvements
-
-- Add smooth open/close animations
-- Improve keyboard accessibility
-- Convert to React component
-- Add ARIA attributes for better accessibility
 
 ---
 
